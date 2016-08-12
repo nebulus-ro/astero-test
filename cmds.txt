@@ -1,0 +1,16 @@
+git clone
+git log
+git diff
+git checkout
+git config --global --edit
+git status
+git init
+git add
+git commit
+git diff --staged
+git reset --hard (!!!! periculos)
+git branch
+git checkout -b "new branch"
+git merge "branch1" "branch2"
+git show
+git branch -d "branch2"

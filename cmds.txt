@@ -14,3 +14,7 @@ git checkout -b "new branch"
 git merge "branch1" "branch2"
 git show
 git branch -d "branch2"
+git remote -v
+git remote add
+git push "branch" "remote"
+git pull "remote" "branch"

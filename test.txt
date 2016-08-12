@@ -1,1 +1,2 @@
 just to see, commit and pull a file from server
+some other small changes locally
